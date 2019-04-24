@@ -3,7 +3,7 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
+  background: url("../images/standard_background2.jpg");
 }
 
 * {
@@ -35,7 +35,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: #310707;
 }
 
 h1 {
@@ -60,7 +60,6 @@ h3 {
   overflow: auto;
   color: #ffffff;
   background: #ffffff;
-  border-bottom: 2px solid #cccccc;
   left: 0;
 }
 
@@ -75,7 +74,7 @@ h3 {
   color: #ffffff;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: #310707;
 }
 
 nav {
@@ -108,7 +107,7 @@ footer {
   color: #cccccc;
   text-align: center;
   background: #666666;
-  border-top: 8px solid #4aaaa5;
+  border-top: 8px solid #310707;
   height: 50px;
 }
 
@@ -144,6 +143,7 @@ h3, h2 {
   width: 274px;
   margin: 20px 0 25px;
   overflow: auto;
+  margin-right: 20px;
 }
 
 .face {
@@ -151,14 +151,15 @@ h3, h2 {
   padding-right: 20px;
 }
 
-.work:nth-child(even) {
+/* .work:nth-child(even) {
   margin-right: 40px;
-}
+} */
 
 .work img {
   width: 100%;
   border: 0 none;
   opacity: 0.8;
+  border: 1px solid #310707;
 }
 
 .work h3 {
@@ -171,7 +172,7 @@ h3, h2 {
   line-height: 30px;
   color: #ffffff;
   text-align: center;
-  background: #4aaaa5;
+  background: #310707;
   border-bottom: 0;
 }
 
@@ -221,7 +222,7 @@ input[type=submit] {
   font-size: 18px;
   color: #ffffff;
   cursor: pointer;
-  background: #4aaaa5;
+  background: #310707;
   border: 0 none;
 }
 
