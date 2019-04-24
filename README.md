@@ -18,3 +18,11 @@ This is my official portfolio. This is a living portfolio and will evolve as I d
 Open index.html file via browser (Chrome preferred)
 
 Or visit application via https://blakemarter.github.io/Responsive-Portfolio/.
+
+## __Check Me Out__
+
+GitHub: https://github.com/BlakeMarter
+
+LinkedIn: https://www.linkedin.com/in/blake-marter-42956617a/
+
+Resume: https://drive.google.com/open?id=1NWnygbAylXusnl4Rteh8EPTwzhn-MV2l
