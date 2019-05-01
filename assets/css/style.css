@@ -150,6 +150,9 @@ h3, h2 {
   background: #ffffff;
   border: 1px solid #dddddd;
 }
+
+/* portfolio page */
+
 .main-section2 {
   float: left;
   width: 100%;
@@ -157,10 +160,9 @@ h3, h2 {
   padding: 30px;
   margin: 0 0 40px;
   background: #ffffff;
-  
+  /* border: 1px solid #dddddd; */
 }
 
-/* portfolio page */
 
 .work {
   position: relative;
