@@ -24,6 +24,12 @@ body {
   margin: 0 auto;
   clear: both;
 }
+.container2 {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+  clear: both;
+}
 
 h1,
 h2,
@@ -130,8 +136,21 @@ h3, h2 {
   padding-top: 130px;
   min-height: calc(100vh - 70px);
 }
+#main-container2 {
+  padding-top: 130px;
+  min-height: calc(100vh - 70px);
+}
 
 .main-section {
+  float: left;
+  width: 100%;
+  max-width: 960px;
+  padding: 30px;
+  margin: 0 0 40px;
+  background: #ffffff;
+  border: 1px solid #dddddd;
+}
+.main-section2 {
   float: left;
   width: 100%;
   max-width: 960px;
@@ -145,12 +164,15 @@ h3, h2 {
 
 .work {
   position: relative;
-  float: left;
+  /* float: left; */
   width: 274px;
-  margin: 20px 0 25px;
+  margin: 20px 20px 25px 2px;
   overflow: auto;
   margin-right: 20px;
+  display: inline-flex;
 }
+
+
 
 .face {
   float:left;
@@ -167,6 +189,7 @@ h3, h2 {
   opacity: 0.8;
   border: 1px solid #310707;
 }
+
 
 .work h3 {
   position: absolute;
